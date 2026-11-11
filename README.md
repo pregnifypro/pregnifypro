@@ -15,6 +15,49 @@
 
 ---
 
+## 📱 App Interface & Screenshots
+
+<p align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1e30774a-9d62-49d3-87e4-175c969aac31" width="260" alt="Home Screen"/><br/>
+        <b>🏠 Home Dashboard</b><br/>
+        <sub>Quick Categories & Search</sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/5fb346e0-3b90-4e35-996d-25ae1f0d9f1d" width="260" alt="Universal Search"/><br/>
+        <b>🔍 Universal Search</b><br/>
+        <sub>Instant Lookup & Suggestions</sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/667f3641-27b5-4d79-b651-834a1a7e793f" width="260" alt="Drug Safety"/><br/>
+        <b>💊 Drug Safety & Details</b><br/>
+        <sub>Pregnancy & Lactation Info</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/8b7fd5bb-d4d3-4929-b52f-06b1521c1837" width="260" alt="Clinical Tools"/><br/>
+        <b>🧮 30+ Clinical Tools</b><br/>
+        <sub>ANC, BMI, EFW & Calculators</sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/da17247b-c0d1-447e-a787-2c6fd18b0862" width="260" alt="Diseases Guide"/><br/>
+        <b>🩺 Diseases & Conditions</b><br/>
+        <sub>Gynecology & Clinical Guide</sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/b36cc349-855a-4e55-afcf-3c2e1a6da59f" width="260" alt="Guidelines"/><br/>
+        <b>📋 Medical Guidelines</b><br/>
+        <sub>National & International Protocols</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ## 🌟 এক নজরে মূল ফিচারসমূহ
 
 * **🔍 স্মার্ট ইউনিভার্সাল সার্চ:** এক সার্চবারেই ড্রাগ, ব্র্যান্ড, ডিজিজ, গাইডলাইন ও টুল খুঁজুন। এতে অ্যানিমেটেড সাজেশন এবং 🎤 ভয়েস সার্চ (বাংলা/English) সুবিধা রয়েছে।
@@ -25,13 +68,12 @@
   * ⚠️ **High-Risk:** Iron (Ganzoni), High-Risk Pregnancy Triage, BP/MAP, OGTT/GDM, Thyroid Rx, HbA1c, UPCR, Aspirin
   * 🏥 **Labour:** Bishop Score, CTG, BPP Score, MediTimer Pro, IV Fluid
   * 👶 **Postnatal:** PNC, Apgar, Jaundice, EPDS, Diarrhoea
-  *(ইন-অ্যাপ সুইচারের মাধ্যমে এক টুল থেকে অন্য টুলে এক ট্যাপেই যাওয়া যায়)*
 * **💊 বিশাল ড্রাগ ডেটাবেস:** বাংলাদেশি ব্র্যান্ড নেম, FDA প্রেগন্যান্সি ক্যাটেগরি এবং ল্যাকটেশন সেফটি সংক্রান্ত বিস্তারিত তথ্য।
 * **🤱 ল্যাকটেশন সার্চ ও ড্রাগ কম্প্যারেটর:** ওষুধ পাশাপাশি তুলনা করুন এবং ক্ষতিকর বিক্রিয়া বা উচ্চ ঝুঁকির ওষুধ সম্পর্কে জানুন।
 * **☣️ টেরেটোজেন মনিটর ও কুইক রেফারেন্স চার্ট:** জরুরি মুহূর্তে দ্রুত তথ্য প্রাপ্তির জন্য বিশেষ গাইড।
 * **🧪 ল্যাব অ্যানালাইজার:** ১০০টি টেস্টের রেফারেন্স লাইব্রেরি (Hb%, TSH, RBS ইত্যাদি ইনপুট দিয়ে রিপোর্ট স্বাভাবিক কিনা যাচাই করুন)।
 * **📋 ANC ও গাইডলাইন:** ট্রাইমেস্টারভিত্তিক টেস্ট এবং WHO, ACOG ও NICE-এর প্রোটোকল গাইডলাইন।
-* **⚡ ইনস্ট্যান্ট Rx ইন্টিগ্রেশন:** ডিজিজ বা প্রটোকল রিডার থেকে এক ক্লিকেই ওষুধ প্রেসক্রিপশন প্যাডে যুক্ত করুন এবং ডিজিটাল Rx মেকারে প্রফেশনাল প্রেসক্রিপশন তৈরি ও প্রিন্ট করুন।
+* **⚡ ইনস্ট্যান্ট Rx ইন্টিগ্রেশন:** ডিজিজ বা প্রটোকল রিডার থেকে এক ক্লিকেই ওষুধ প্রেসক্রিপشن প্যাডে যুক্ত করুন এবং ডিজিটাল Rx মেকারে প্রফেশনাল প্রেসক্রিপশন তৈরি ও প্রিন্ট করুন।
 * **🏥 Pro Clinic Tools:** পেশেন্ট রেকর্ড, Rx সেফটি, পার্টোগ্রাফ, MEOWS, এবং প্রি-এক্লাম্পসিয়া ম্যানেজমেন্ট।
 * **📌 Saved & Notes:** ড্রাগ ও আর্টিকেল সেভ করুন, নিজের নোট লিখুন, ফোল্ডারে সাজান এবং Export/Import করুন।
 * **🌙 ডার্ক মোড ও প্রিমিয়াম UI:** চোখের স্বস্তির জন্য আকর্ষণীয় ডার্ক ও লাইট থিম সাপোর্ট।
